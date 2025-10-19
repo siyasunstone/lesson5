@@ -17,7 +17,52 @@ while guess != number and attempts < 3:
 4
 # after the loop ends, check why
 if guess != number:
-    print("😢 You used all 12 tries. You lose! The number was", number)
+    print("😢 You used all 3 tries. You lose! The number was", number)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
